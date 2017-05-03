@@ -1,0 +1,459 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"fz\tfont-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"head",
+				"header\t<header>"
+			],
+			[
+				"hea",
+				"header\t<header>"
+			],
+			[
+				"bo",
+				"border\tAttr"
+			],
+			[
+				"onm",
+				"onmouseover\tAttr"
+			],
+			[
+				"wp_nav_me",
+				"wp_nav_menu"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"add_theme",
+				"add_theme_support"
+			],
+			[
+				"wp_enq",
+				"wp_enqueue_script"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_scripts"
+			],
+			[
+				"wp_enqueue_",
+				"wp_enqueue_style"
+			],
+			[
+				"get_tem",
+				"get_template_directory_uri"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"att",
+				"attack"
+			],
+			[
+				"Get",
+				"getName"
+			],
+			[
+				"po",
+				"power"
+			],
+			[
+				"bi",
+				"birthDate"
+			],
+			[
+				"cal",
+				"calculateAge"
+			],
+			[
+				"bir",
+				"birthDate"
+			],
+			[
+				"DA",
+				"DAY_OF_MONTH"
+			],
+			[
+				"ca",
+				"Calendar"
+			],
+			[
+				"C",
+				"Calendar"
+			],
+			[
+				"mo",
+				"months"
+			],
+			[
+				"pri",
+				"printArray"
+			],
+			[
+				"int",
+				"Integer"
+			],
+			[
+				"Da",
+				"DateInput"
+			],
+			[
+				"da",
+				"DateInput"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "sftp",
+		"selected_items":
+		[
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"mater",
+				"Material Theme: Configuration"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: int",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 244.0,
+		"history":
+		[
+			"import os; os.system('git --version')",
+			"import os; print (os.getenv('PATH'))",
+			"import os; print os.getenv(\"PATH\")",
+			"import os; print os.getenv('PATH')",
+			"git -help",
+			"hit -help",
+			"git help"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Paul/Dropbox/Code Training/Codenza/PHP"
+	],
+	"file_history":
+	[
+		"/C/Users/Paul/Dropbox/Code Training/Codenza/sum2.php",
+		"/Z/Dropbox/Code Training/PHP/PHP Training Module.sublime-project",
+		"/G/Sublime Text/Data/Packages/Git/Git.sublime-settings",
+		"/Z/Dropbox/Code Training/PHP/test.php",
+		"/C/Users/Paul/Dropbox/dtw/wp-load.php",
+		"/G/Sublime Text/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/User/AppData/Local/Temp/sublime-sftp-browse-1493725317/newty.org.uk/wp-content/themes/modality/copyright21.php",
+		"/C/users/user/appdata/local/temp/sublime-sftp-browse-1493726431/newty.org.uk/wp-content/themes/modality/copyright.php",
+		"/F/Sublime Text/Data/Packages/SFTP/SFTP.sublime-settings",
+		"/F/Sublime Text/Data/Packages/User/sftp_servers/tectre.com",
+		"/F/Sublime Text/Data/Packages/User/SFTP.sublime-settings",
+		"/D/ndsa/tmp2/contact1.html",
+		"/G/Unit 355 - Advanced Web/Working/template/index.html",
+		"/G/Unit 097 - Web Software/Assignment/tourism/register.html",
+		"/S/Unit 355/week 2/java buttons/index.html",
+		"/S/Unit 355/java gall/index.html",
+		"/G/Unit 355 - Advanced Web/Working/template/info.php",
+		"/E/Training/Unit 097 - Web Software/Assignment/tourism/index.html",
+		"/S/Unit 355/frame-based-site/css frame/scripts/style.css",
+		"/S/Unit 355/frame-based-site/css frame/index-new.html",
+		"/G/Unit 355 - Advanced Web/Working/template/css/main.css",
+		"/S/Unit 355/forms/contact.html",
+		"/S/Unit 355/forms/form-inputs.html",
+		"/E/Training/Unit 097 - Web Software/Assignment/tourism/home.html",
+		"/E/Training/Unit 097 - Web Software/Assignment/tourism/css/main.css",
+		"/F/Sublime Text/Data/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/D/wamp64/www/dtw/wp-content/themes/dtwTheme/index.php",
+		"/D/wamp64/www/dtw/wp-content/themes/dtwTheme/footer.php",
+		"/D/wamp64/www/dtw/wp-content/themes/dtwTheme/header.php",
+		"/D/wamp64/www/dtw/wp-content/themes/dtwTheme/assets/css/dtw.css",
+		"/D/wamp64/www/dtw/wp-content/themes/dtwTheme/assets/js/dtw.js",
+		"/D/wamp64/www/dtw/wp-content/themes/dtwTheme/functions.php",
+		"/D/wamp64/www/dtw/wp-content/themes/dtwTheme/style.css",
+		"/G/Unit 097 - Web Software/Assignment/tourism/css/main.css",
+		"/G/Unit 097 - Web Software/Assignment/tourism/css/gallery.css",
+		"/G/Unit 097 - Web Software/Assignment/tourism/css/img.css",
+		"/G/Unit 097 - Web Software/Assignment/tourism/about.html",
+		"/G/Unit 097 - Web Software/Assignment/tourism/contact.html",
+		"/G/Unit 097 - Web Software/Assignment/tourism/index.html",
+		"/G/Unit 097 - Web Software/Assignment/tourism/gallery/img.html",
+		"/G/Unit 097 - Web Software/Assignment/tourism/css/about.css",
+		"/G/Unit 097 - Web Software/Assignment/tourism/home.html",
+		"/G/Unit 097 - Web Software/Assignment/tourism/gallery.html",
+		"/G/Unit 097 - Web Software/Assignment/tourism/css/front.css",
+		"/G/Unit 097 - Web Software/Working/Dev/testing/about - Copy.html",
+		"/G/Unit 097 - Web Software/Working/Dev/layoutEx/css/layout.css",
+		"/G/Unit 37 - Java OOP/Working/BlueJDay5/TestCreature.java",
+		"/G/Unit 37 - Java OOP/Working/Week 2/BlueJ/DateDemo4.java",
+		"/G/Unit 37 - Java OOP/Working/Week 2/BlueJ/DateDemo3.java",
+		"/G/Unit 37 - Java OOP/Working/Week 2/BlueJ/DateDemo2.java",
+		"/G/Unit 37 - Java OOP/Working/Week 2/BlueJ/DateDemo.java",
+		"/G/Unit 37 - Java OOP/Working/Week 2/DateDemp.java",
+		"/I/Sublime Text/Data/Packages/GitGutter/GitGutter.sublime-settings",
+		"/I/Sublime Text/Data/Packages/User/GitGutter.sublime-settings",
+		"/I/Sublime Text/Data/Packages/Alignment/Base File.sublime-settings",
+		"/I/Sublime Text/Data/Packages/User/Base File.sublime-settings",
+		"/I/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/I/Sublime Text/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/I/Sublime Text/Data/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"-->",
+			"li",
+			"float",
+			"align",
+			"22",
+			"\t\t\t<img src=\"\" alt=\"\">\n\t\t\t<a href=\"\"></a>\n",
+			"\t\t<",
+			"=\"\"",
+			"dtw",
+			"dtw_script_enqueue",
+			"link",
+			"\t<",
+			"header",
+			"attack",
+			"pM",
+			"String",
+			";\n",
+			"System",
+			"leapYr",
+			"test",
+			"x",
+			"arr7",
+			"1",
+			"arr7[0]=1;\n",
+			"String"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 128.0
+	},
+	"pinned_build_system": "",
+	"project": "codenza-php.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
